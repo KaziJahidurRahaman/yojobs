@@ -26,3 +26,6 @@ This project has the ability to move forward with a lot of potential while findi
 <p>
   The project was developed as part of the course CSE411 of East West University. This was jointly contributed by Kazi Jahidur Rahaman(Backend, Frontend), Jannatul Adon(Frontend), and Musharrat Islam(Project Management). The corresponding report and powerpoint presentatation can be found in the repository. Reuse is permiteed upon providing appropriate credits.   
 </p>
+
+![image](https://github.com/KaziJahidurRahaman/yojobs/assets/109986838/0874f003-d47b-4241-a706-17d409bd7f04)
+
